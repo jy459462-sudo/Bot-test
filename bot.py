@@ -43,17 +43,17 @@ from pyrogram.errors import (
 # CONFIG
 # ---------------------------------------------------------------------
 
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8543596764:AAEs9_r-ZxteVct-7M1VsjhEQmiFAhrs5_Y')
-ADMIN_ID = int(os.getenv('ADMIN_ID', '7582601826'))
-MONGO_URL = os.getenv('MONGO_URL', 'mongodb+srv://userbot:userbot@cluster0.iweqz.mongodb.net/test?retryWrites=true&w=majority')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8396966866:AAF3rfagD2ApHc0jdB4f463C8TnlzccyZis')
+ADMIN_ID = int(os.getenv('ADMIN_ID', '8386507312'))
+MONGO_URL = os.getenv('MONGO_URL', 'mongodb+srv://playetfreefire497_db_user:P11VGjqSYaEN3QpJ@cluster0.q9cours.mongodb.net/?appName=Cluster0')
 API_ID = int(os.getenv('API_ID', '30038466'))
 API_HASH = os.getenv('API_HASH', '5a492a0dfb22b1a0b7caacbf90cbf96e')
 
 # MUST JOIN CHANNELS - TWO CHANNELS
-MUST_JOIN_CHANNEL_1 = "@BOT_HEART"
-MUST_JOIN_CHANNEL_2 = "@BOT_HEART2"
+MUST_JOIN_CHANNEL_1 = "@bottestook"
+MUST_JOIN_CHANNEL_2 = "@nzjdkdkk"
 # LOG CHANNEL
-LOG_CHANNEL_ID = "-1002130890437"
+LOG_CHANNEL_ID = "-1003560564242"
 
 # Referral commission percentage
 REFERRAL_COMMISSION = 1.5

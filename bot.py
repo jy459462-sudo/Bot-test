@@ -124,7 +124,7 @@ bulk_add_states = {}
 try:
     from account import AccountManager
     account_manager = AccountManager(GLOBAL_API_ID, GLOBAL_API_HASH)
-    logger.-1003706086434t manager loaded successfully")
+    logger.-1003706086434 manager loaded successfully")
 except ImportError as e:
     logger.error(f"❌ Failed to load account module: {e}")
     account_manager = None
